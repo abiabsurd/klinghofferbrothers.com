@@ -1,4 +1,5 @@
-baseURL = 'http://klinghofferbrothers.com/'
+baseURL = 'https://www.klinghofferbrothers.com/'
 languageCode = 'en-us'
 title = 'Klinghoffer Brothers'
 theme = 'ananke'
+# relativeURLs = true
