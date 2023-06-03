@@ -5,6 +5,16 @@
     <link>https://www.klinghofferbrothers.com/</link>
     <description>Recent content on Klinghoffer Brothers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.klinghofferbrothers.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jun 2023 23:05:13 -0400</lastBuildDate><atom:link href="https://www.klinghofferbrothers.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://www.klinghofferbrothers.com/posts/intro/</link>
+      <pubDate>Fri, 02 Jun 2023 23:05:13 -0400</pubDate>
+      
+      <guid>https://www.klinghofferbrothers.com/posts/intro/</guid>
+      <description>Klinghoffer Brothers Come check us out at at the Philadelphia Wholesale Produce Market!</description>
+    </item>
+    
   </channel>
 </rss>
