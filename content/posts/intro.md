@@ -1,7 +1,7 @@
 ---
-title: "My First Post"
+title: "Welcome to our new site!"
 date: 2023-06-02T23:05:13-04:00
-draft: true
+draft: false
 ---
 
 ## Klinghoffer Brothers
