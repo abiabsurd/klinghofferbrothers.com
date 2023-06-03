@@ -1,0 +1,4 @@
+baseURL = 'http://klinghofferbrothers.com/'
+languageCode = 'en-us'
+title = 'Klinghoffer Brothers'
+theme = 'ananke'
